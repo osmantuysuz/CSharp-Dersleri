@@ -1,0 +1,7 @@
+E:\YAZILIM\İbrahim Öz\C# Dersleri 1 - Introduction\Introduction\_1HelloWorld\bin\Debug\_1HelloWorld.exe.config
+E:\YAZILIM\İbrahim Öz\C# Dersleri 1 - Introduction\Introduction\_1HelloWorld\bin\Debug\_1HelloWorld.exe
+E:\YAZILIM\İbrahim Öz\C# Dersleri 1 - Introduction\Introduction\_1HelloWorld\bin\Debug\_1HelloWorld.pdb
+E:\YAZILIM\İbrahim Öz\C# Dersleri 1 - Introduction\Introduction\_1HelloWorld\obj\Debug\_1HelloWorld.csproj.AssemblyReference.cache
+E:\YAZILIM\İbrahim Öz\C# Dersleri 1 - Introduction\Introduction\_1HelloWorld\obj\Debug\_1HelloWorld.csproj.CoreCompileInputs.cache
+E:\YAZILIM\İbrahim Öz\C# Dersleri 1 - Introduction\Introduction\_1HelloWorld\obj\Debug\_1HelloWorld.exe
+E:\YAZILIM\İbrahim Öz\C# Dersleri 1 - Introduction\Introduction\_1HelloWorld\obj\Debug\_1HelloWorld.pdb

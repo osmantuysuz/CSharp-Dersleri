@@ -1,0 +1,6 @@
+E:\YAZILIM\İbrahim Öz\C# Dersleri 1 - Introduction\Introduction\_2VeriTipleri\bin\Debug\_2VeriTipleri.exe.config
+E:\YAZILIM\İbrahim Öz\C# Dersleri 1 - Introduction\Introduction\_2VeriTipleri\bin\Debug\_2VeriTipleri.exe
+E:\YAZILIM\İbrahim Öz\C# Dersleri 1 - Introduction\Introduction\_2VeriTipleri\bin\Debug\_2VeriTipleri.pdb
+E:\YAZILIM\İbrahim Öz\C# Dersleri 1 - Introduction\Introduction\_2VeriTipleri\obj\Debug\_2VeriTipleri.csproj.CoreCompileInputs.cache
+E:\YAZILIM\İbrahim Öz\C# Dersleri 1 - Introduction\Introduction\_2VeriTipleri\obj\Debug\_2VeriTipleri.exe
+E:\YAZILIM\İbrahim Öz\C# Dersleri 1 - Introduction\Introduction\_2VeriTipleri\obj\Debug\_2VeriTipleri.pdb

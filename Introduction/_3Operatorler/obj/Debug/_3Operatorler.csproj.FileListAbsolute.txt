@@ -1,0 +1,6 @@
+E:\YAZILIM\İbrahim Öz\C# Dersleri 1 - Introduction\Introduction\_3Operatorler\obj\Debug\_3Operatorler.csproj.CoreCompileInputs.cache
+E:\YAZILIM\İbrahim Öz\C# Dersleri 1 - Introduction\Introduction\_3Operatorler\bin\Debug\_3Operatorler.exe.config
+E:\YAZILIM\İbrahim Öz\C# Dersleri 1 - Introduction\Introduction\_3Operatorler\bin\Debug\_3Operatorler.exe
+E:\YAZILIM\İbrahim Öz\C# Dersleri 1 - Introduction\Introduction\_3Operatorler\bin\Debug\_3Operatorler.pdb
+E:\YAZILIM\İbrahim Öz\C# Dersleri 1 - Introduction\Introduction\_3Operatorler\obj\Debug\_3Operatorler.exe
+E:\YAZILIM\İbrahim Öz\C# Dersleri 1 - Introduction\Introduction\_3Operatorler\obj\Debug\_3Operatorler.pdb

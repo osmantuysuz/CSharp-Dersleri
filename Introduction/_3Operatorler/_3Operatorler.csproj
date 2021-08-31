@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C4F5020F-FBA8-4F49-A75A-153B738834D1}</ProjectGuid>
+    <ProjectGuid>{84186517-C2C7-4E39-8B45-F0AD6247E3F4}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_1HelloWorld</RootNamespace>
-    <AssemblyName>_1HelloWorld</AssemblyName>
+    <RootNamespace>_3Operatorler</RootNamespace>
+    <AssemblyName>_3Operatorler</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -47,9 +47,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\.editorconfig">
-      <Link>.editorconfig</Link>
-    </None>
     <None Include="App.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

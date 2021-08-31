@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS0219: Değişken atandı ancak değeri hiç kullanılmadı
+dotnet_diagnostic.CS0219.severity = none

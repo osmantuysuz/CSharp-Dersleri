@@ -1,0 +1,7 @@
+E:\YAZILIM\İbrahim Öz\C# Dersleri 1 - Introduction\Introduction\_4TipDonusumleri\bin\Debug\_4TipDonusumleri.exe.config
+E:\YAZILIM\İbrahim Öz\C# Dersleri 1 - Introduction\Introduction\_4TipDonusumleri\bin\Debug\_4TipDonusumleri.exe
+E:\YAZILIM\İbrahim Öz\C# Dersleri 1 - Introduction\Introduction\_4TipDonusumleri\bin\Debug\_4TipDonusumleri.pdb
+E:\YAZILIM\İbrahim Öz\C# Dersleri 1 - Introduction\Introduction\_4TipDonusumleri\obj\Debug\_4TipDonusumleri.csproj.AssemblyReference.cache
+E:\YAZILIM\İbrahim Öz\C# Dersleri 1 - Introduction\Introduction\_4TipDonusumleri\obj\Debug\_4TipDonusumleri.csproj.CoreCompileInputs.cache
+E:\YAZILIM\İbrahim Öz\C# Dersleri 1 - Introduction\Introduction\_4TipDonusumleri\obj\Debug\_4TipDonusumleri.exe
+E:\YAZILIM\İbrahim Öz\C# Dersleri 1 - Introduction\Introduction\_4TipDonusumleri\obj\Debug\_4TipDonusumleri.pdb

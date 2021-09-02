@@ -1,0 +1,7 @@
+E:\YAZILIM\İbrahim Öz\C# Dersleri 1 - Introduction\Introduction\_5KararYapilari\bin\Debug\_5KararYapilari.exe.config
+E:\YAZILIM\İbrahim Öz\C# Dersleri 1 - Introduction\Introduction\_5KararYapilari\bin\Debug\_5KararYapilari.exe
+E:\YAZILIM\İbrahim Öz\C# Dersleri 1 - Introduction\Introduction\_5KararYapilari\bin\Debug\_5KararYapilari.pdb
+E:\YAZILIM\İbrahim Öz\C# Dersleri 1 - Introduction\Introduction\_5KararYapilari\obj\Debug\_5KararYapilari.csproj.AssemblyReference.cache
+E:\YAZILIM\İbrahim Öz\C# Dersleri 1 - Introduction\Introduction\_5KararYapilari\obj\Debug\_5KararYapilari.csproj.CoreCompileInputs.cache
+E:\YAZILIM\İbrahim Öz\C# Dersleri 1 - Introduction\Introduction\_5KararYapilari\obj\Debug\_5KararYapilari.exe
+E:\YAZILIM\İbrahim Öz\C# Dersleri 1 - Introduction\Introduction\_5KararYapilari\obj\Debug\_5KararYapilari.pdb

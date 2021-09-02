@@ -1,0 +1,7 @@
+E:\YAZILIM\İbrahim Öz\C# Dersleri 1 - Introduction\Introduction\_7Donguler-DoWhile\bin\Debug\_7Donguler-DoWhile.exe.config
+E:\YAZILIM\İbrahim Öz\C# Dersleri 1 - Introduction\Introduction\_7Donguler-DoWhile\bin\Debug\_7Donguler-DoWhile.exe
+E:\YAZILIM\İbrahim Öz\C# Dersleri 1 - Introduction\Introduction\_7Donguler-DoWhile\bin\Debug\_7Donguler-DoWhile.pdb
+E:\YAZILIM\İbrahim Öz\C# Dersleri 1 - Introduction\Introduction\_7Donguler-DoWhile\obj\Debug\_7Donguler-DoWhile.csproj.AssemblyReference.cache
+E:\YAZILIM\İbrahim Öz\C# Dersleri 1 - Introduction\Introduction\_7Donguler-DoWhile\obj\Debug\_7Donguler-DoWhile.csproj.CoreCompileInputs.cache
+E:\YAZILIM\İbrahim Öz\C# Dersleri 1 - Introduction\Introduction\_7Donguler-DoWhile\obj\Debug\_7Donguler-DoWhile.exe
+E:\YAZILIM\İbrahim Öz\C# Dersleri 1 - Introduction\Introduction\_7Donguler-DoWhile\obj\Debug\_7Donguler-DoWhile.pdb

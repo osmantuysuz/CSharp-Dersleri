@@ -18,6 +18,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_4TipDonusumleri", "_4TipDo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_5KararYapilari", "_5KararYapilari\_5KararYapilari.csproj", "{F7DE35C9-9E55-4631-B3D7-C6ECD3FE5340}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_6Donguler-While", "_6Donguler-While\_6Donguler-While.csproj", "{F1221C9B-6920-4B3E-A734-A99553D021E0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,6 +46,10 @@ Global
 		{F7DE35C9-9E55-4631-B3D7-C6ECD3FE5340}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7DE35C9-9E55-4631-B3D7-C6ECD3FE5340}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7DE35C9-9E55-4631-B3D7-C6ECD3FE5340}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1221C9B-6920-4B3E-A734-A99553D021E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1221C9B-6920-4B3E-A734-A99553D021E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1221C9B-6920-4B3E-A734-A99553D021E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1221C9B-6920-4B3E-A734-A99553D021E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

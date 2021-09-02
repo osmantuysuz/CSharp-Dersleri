@@ -1,0 +1,6 @@
+E:\YAZILIM\İbrahim Öz\C# Dersleri 1 - Introduction\Introduction\_6Donguler-While\bin\Debug\_6Donguler-While.exe.config
+E:\YAZILIM\İbrahim Öz\C# Dersleri 1 - Introduction\Introduction\_6Donguler-While\bin\Debug\_6Donguler-While.exe
+E:\YAZILIM\İbrahim Öz\C# Dersleri 1 - Introduction\Introduction\_6Donguler-While\bin\Debug\_6Donguler-While.pdb
+E:\YAZILIM\İbrahim Öz\C# Dersleri 1 - Introduction\Introduction\_6Donguler-While\obj\Debug\_6Donguler-While.csproj.CoreCompileInputs.cache
+E:\YAZILIM\İbrahim Öz\C# Dersleri 1 - Introduction\Introduction\_6Donguler-While\obj\Debug\_6Donguler-While.exe
+E:\YAZILIM\İbrahim Öz\C# Dersleri 1 - Introduction\Introduction\_6Donguler-While\obj\Debug\_6Donguler-While.pdb

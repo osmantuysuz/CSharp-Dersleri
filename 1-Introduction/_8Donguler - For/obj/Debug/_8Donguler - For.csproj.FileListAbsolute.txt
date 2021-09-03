@@ -1,0 +1,7 @@
+E:\YAZILIM\İbrahim Öz\C# Dersleri\1-Introduction\_8Donguler - For\bin\Debug\_8Donguler - For.exe.config
+E:\YAZILIM\İbrahim Öz\C# Dersleri\1-Introduction\_8Donguler - For\bin\Debug\_8Donguler - For.exe
+E:\YAZILIM\İbrahim Öz\C# Dersleri\1-Introduction\_8Donguler - For\bin\Debug\_8Donguler - For.pdb
+E:\YAZILIM\İbrahim Öz\C# Dersleri\1-Introduction\_8Donguler - For\obj\Debug\_8Donguler - For.csproj.AssemblyReference.cache
+E:\YAZILIM\İbrahim Öz\C# Dersleri\1-Introduction\_8Donguler - For\obj\Debug\_8Donguler - For.csproj.CoreCompileInputs.cache
+E:\YAZILIM\İbrahim Öz\C# Dersleri\1-Introduction\_8Donguler - For\obj\Debug\_8Donguler - For.exe
+E:\YAZILIM\İbrahim Öz\C# Dersleri\1-Introduction\_8Donguler - For\obj\Debug\_8Donguler - For.pdb

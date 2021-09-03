@@ -22,6 +22,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_6Donguler-While", "_6Dongu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_7Donguler-DoWhile", "_7Donguler-DoWhile\_7Donguler-DoWhile.csproj", "{F582DDD6-838C-4A36-A5C6-0AEAF719DBB0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_8Donguler - For", "_8Donguler - For\_8Donguler - For.csproj", "{F370762E-4529-4080-97EB-979452C7AF67}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -56,6 +58,10 @@ Global
 		{F582DDD6-838C-4A36-A5C6-0AEAF719DBB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F582DDD6-838C-4A36-A5C6-0AEAF719DBB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F582DDD6-838C-4A36-A5C6-0AEAF719DBB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F370762E-4529-4080-97EB-979452C7AF67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F370762E-4529-4080-97EB-979452C7AF67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F370762E-4529-4080-97EB-979452C7AF67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F370762E-4529-4080-97EB-979452C7AF67}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

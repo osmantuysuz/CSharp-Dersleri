@@ -1,0 +1,7 @@
+E:\YAZILIM\İbrahim Öz\C# Dersleri\1-Introduction\_9Diziler\bin\Debug\_9Diziler.exe.config
+E:\YAZILIM\İbrahim Öz\C# Dersleri\1-Introduction\_9Diziler\bin\Debug\_9Diziler.exe
+E:\YAZILIM\İbrahim Öz\C# Dersleri\1-Introduction\_9Diziler\bin\Debug\_9Diziler.pdb
+E:\YAZILIM\İbrahim Öz\C# Dersleri\1-Introduction\_9Diziler\obj\Debug\_9Diziler.csproj.AssemblyReference.cache
+E:\YAZILIM\İbrahim Öz\C# Dersleri\1-Introduction\_9Diziler\obj\Debug\_9Diziler.csproj.CoreCompileInputs.cache
+E:\YAZILIM\İbrahim Öz\C# Dersleri\1-Introduction\_9Diziler\obj\Debug\_9Diziler.exe
+E:\YAZILIM\İbrahim Öz\C# Dersleri\1-Introduction\_9Diziler\obj\Debug\_9Diziler.pdb

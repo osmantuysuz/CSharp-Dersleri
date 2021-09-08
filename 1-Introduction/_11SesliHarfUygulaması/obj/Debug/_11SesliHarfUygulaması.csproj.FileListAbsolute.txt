@@ -1,0 +1,7 @@
+E:\YAZILIM\İbrahim Öz\C# Dersleri\1-Introduction\_11SesliHarfUygulaması\bin\Debug\_11SesliHarfUygulaması.exe.config
+E:\YAZILIM\İbrahim Öz\C# Dersleri\1-Introduction\_11SesliHarfUygulaması\bin\Debug\_11SesliHarfUygulaması.exe
+E:\YAZILIM\İbrahim Öz\C# Dersleri\1-Introduction\_11SesliHarfUygulaması\bin\Debug\_11SesliHarfUygulaması.pdb
+E:\YAZILIM\İbrahim Öz\C# Dersleri\1-Introduction\_11SesliHarfUygulaması\obj\Debug\_11SesliHarfUygulaması.csproj.AssemblyReference.cache
+E:\YAZILIM\İbrahim Öz\C# Dersleri\1-Introduction\_11SesliHarfUygulaması\obj\Debug\_11SesliHarfUygulaması.csproj.CoreCompileInputs.cache
+E:\YAZILIM\İbrahim Öz\C# Dersleri\1-Introduction\_11SesliHarfUygulaması\obj\Debug\_11SesliHarfUygulaması.exe
+E:\YAZILIM\İbrahim Öz\C# Dersleri\1-Introduction\_11SesliHarfUygulaması\obj\Debug\_11SesliHarfUygulaması.pdb

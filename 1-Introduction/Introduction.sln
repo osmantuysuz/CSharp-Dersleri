@@ -30,6 +30,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_10Donguler-Foreach", "_10D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_11SesliHarfUygulaması", "_11SesliHarfUygulaması\_11SesliHarfUygulaması.csproj", "{F936CF76-FB96-47F1-BBF2-F680124A42B9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_12Donguler-DizilerUygulaması", "_12Donguler-DizilerUygulaması\_12Donguler-DizilerUygulaması.csproj", "{66947DCC-23B0-4F4E-A929-EBED28796E8A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -80,6 +82,10 @@ Global
 		{F936CF76-FB96-47F1-BBF2-F680124A42B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F936CF76-FB96-47F1-BBF2-F680124A42B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F936CF76-FB96-47F1-BBF2-F680124A42B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66947DCC-23B0-4F4E-A929-EBED28796E8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66947DCC-23B0-4F4E-A929-EBED28796E8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66947DCC-23B0-4F4E-A929-EBED28796E8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66947DCC-23B0-4F4E-A929-EBED28796E8A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

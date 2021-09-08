@@ -1,0 +1,7 @@
+E:\YAZILIM\İbrahim Öz\C# Dersleri\1-Introduction\_12Donguler-DizilerUygulaması\obj\Debug\_12Donguler-DizilerUygulaması.csproj.AssemblyReference.cache
+E:\YAZILIM\İbrahim Öz\C# Dersleri\1-Introduction\_12Donguler-DizilerUygulaması\obj\Debug\_12Donguler-DizilerUygulaması.csproj.CoreCompileInputs.cache
+E:\YAZILIM\İbrahim Öz\C# Dersleri\1-Introduction\_12Donguler-DizilerUygulaması\bin\Debug\_12Donguler-DizilerUygulaması.exe.config
+E:\YAZILIM\İbrahim Öz\C# Dersleri\1-Introduction\_12Donguler-DizilerUygulaması\bin\Debug\_12Donguler-DizilerUygulaması.exe
+E:\YAZILIM\İbrahim Öz\C# Dersleri\1-Introduction\_12Donguler-DizilerUygulaması\bin\Debug\_12Donguler-DizilerUygulaması.pdb
+E:\YAZILIM\İbrahim Öz\C# Dersleri\1-Introduction\_12Donguler-DizilerUygulaması\obj\Debug\_12Donguler-DizilerUygulaması.exe
+E:\YAZILIM\İbrahim Öz\C# Dersleri\1-Introduction\_12Donguler-DizilerUygulaması\obj\Debug\_12Donguler-DizilerUygulaması.pdb

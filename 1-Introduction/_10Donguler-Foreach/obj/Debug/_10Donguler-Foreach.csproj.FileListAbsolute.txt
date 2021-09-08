@@ -1,0 +1,7 @@
+E:\YAZILIM\İbrahim Öz\C# Dersleri\1-Introduction\_10Donguler-Foreach\bin\Debug\_10Donguler-Foreach.exe.config
+E:\YAZILIM\İbrahim Öz\C# Dersleri\1-Introduction\_10Donguler-Foreach\bin\Debug\_10Donguler-Foreach.exe
+E:\YAZILIM\İbrahim Öz\C# Dersleri\1-Introduction\_10Donguler-Foreach\bin\Debug\_10Donguler-Foreach.pdb
+E:\YAZILIM\İbrahim Öz\C# Dersleri\1-Introduction\_10Donguler-Foreach\obj\Debug\_10Donguler-Foreach.csproj.CoreCompileInputs.cache
+E:\YAZILIM\İbrahim Öz\C# Dersleri\1-Introduction\_10Donguler-Foreach\obj\Debug\_10Donguler-Foreach.exe
+E:\YAZILIM\İbrahim Öz\C# Dersleri\1-Introduction\_10Donguler-Foreach\obj\Debug\_10Donguler-Foreach.pdb
+E:\YAZILIM\İbrahim Öz\C# Dersleri\1-Introduction\_10Donguler-Foreach\obj\Debug\_10Donguler-Foreach.csproj.AssemblyReference.cache
